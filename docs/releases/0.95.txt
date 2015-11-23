@@ -98,9 +98,9 @@ Problem reports and getting help
 ================================
 
 Need help resolving a problem with Django? The documentation in the
-distribution is also available :doc:`online </index>` at the `Django Web
-site`_. The :doc:`FAQ </faq/index>` document is especially recommended, as it
-contains a number of issues that come up time and again.
+distribution is also available :doc:`online </index>` at the `Django website`_.
+The :doc:`FAQ </faq/index>` document is especially recommended, as it contains
+a number of issues that come up time and again.
 
 For more personalized help, the `django-users`_ mailing list is a very active
 list, with more than 2,000 subscribers who can help you solve any sort of
